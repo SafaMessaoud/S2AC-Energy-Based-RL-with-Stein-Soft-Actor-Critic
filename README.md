@@ -68,9 +68,9 @@ election softmax --gpu_id 1 --svgd_steps 3 --a_c 0.2 --a_a 0.2
 @inproceedings{
 messaoud2023sac,
 
-title={\$S{\textasciicircum}2{AC}\$: {ENERGY}-{BASED} {REINFORCEMENT} {LEARNING} {WITH} {STEIN} {SOFT} {ACTOR} {CRITIC}},
+title={S2AC: Energy-Based Reinforcement Learning With Stein Soft Actor Critic,
 
-author={Safa Messaoud and Billel Mokeddem^* and Zhenghai Xue^* and Bo An and Haipeng Chen and Sanjay Chawla},
+author={Safa Messaoud and Billel Mokeddem* and Zhenghai Xue* and Bo An and Haipeng Chen and Sanjay Chawla},
 
 booktitle={ICLR},
 
