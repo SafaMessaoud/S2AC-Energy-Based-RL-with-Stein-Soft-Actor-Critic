@@ -66,11 +66,11 @@ election softmax --gpu_id 1 --svgd_steps 3 --a_c 0.2 --a_a 0.2
 ```
 ## 
 @inproceedings{
-messaoud2023sac,
-title={\$S{\textasciicircum}2{AC}\$: {ENERGY}-{BASED} {REINFORCEMENT} {LEARNING} {WITH} {STEIN} {SOFT} {ACTOR} {CRITIC}},
-author={Safa Messaoud and Billel Mokeddem^* and Zhenghai Xue^* and Bo An and Haipeng Chen and Sanjay Chawla},
-booktitle={ICLR},
-year={2024},
+messaoud2023sac,```
+title={\$S{\textasciicircum}2{AC}\$: {ENERGY}-{BASED} {REINFORCEMENT} {LEARNING} {WITH} {STEIN} {SOFT} {ACTOR} {CRITIC}},```
+author={Safa Messaoud and Billel Mokeddem^* and Zhenghai Xue^* and Bo An and Haipeng Chen and Sanjay Chawla},```
+booktitle={ICLR},```
+year={2024},```
 url={https://openreview.net/forum?id=fksglLN3ew}
 }
 
