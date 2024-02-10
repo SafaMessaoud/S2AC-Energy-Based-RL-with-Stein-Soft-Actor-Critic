@@ -1,5 +1,6 @@
 # Stein Soft Actor-Critic (S2AC)
 ​Official Implementation of "S2AC: Energy-Based Reinforcement Learning With Stein Soft Actor Critic". 
+
 S2AC is a model-free RL algorithm that aims at learning policies that can represent arbitrary action distributions without compromising efficiency. STAC uses Stein Variational Gradient Descent (SVGD) as the underlying policy to generate action samples from distributions represented using EBMs, and adopts the policy iteration procedure like SAC that maintains sample efficiency.
 ​
 ​
