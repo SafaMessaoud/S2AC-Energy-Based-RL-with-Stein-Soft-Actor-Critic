@@ -3,14 +3,9 @@
 
 S2AC is a model-free RL algorithm that aims at learning policies that can represent arbitrary action distributions without compromising efficiency. STAC uses Stein Variational Gradient Descent (SVGD) as the underlying policy to generate action samples from distributions represented using EBMs, and adopts the policy iteration procedure like SAC that maintains sample efficiency.
 
-```bibtex
-@inproceedings{messaoud2026particles,
-  title={Particles Don't Care About Z: Towards Scaling Entropy Estimation of Unnormalized Densities},
-  author={Messaoud, Safa and Charni, Skander and Bouazza, Elaa and Fatideh, Ali Pourghasemi and Bensmail, Halima},
-  booktitle={International Conference on Machine Learning (ICML)},
-  year={2026},
-  url={[https://openreview.net/forum?id=CaqVssw7rN](https://openreview.net/forum?id=CaqVssw7rN)}
-}
+Please check our follow-up paper for further optimizations of S2AC: ["Particles Don't Care About Z: Towards Scaling Entropy Estimation of Unnormalized Densities"](https://icml.cc/virtual/2026/poster/61724), S. Messaoud, S. Charni, E. Bouazza, A. P. Fatideh, and H. Bensmail, ICML 2026.
+
+
 ​
 ​
 ## Installation
